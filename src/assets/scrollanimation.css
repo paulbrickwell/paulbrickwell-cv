@@ -1,0 +1,31 @@
+.scrollanimation-before {
+  opacity: 0;
+  transform: translateX(-10px);
+}
+.scrollanimation-after {
+  opacity: 1;
+  transform: translateX(0px);
+  transform: translateY(0px);
+  transition: all 2s ease;
+}
+.d100 {
+  transition-delay: 100ms;
+}
+.d200 {
+  transition-delay: 200ms;
+}
+.d300 {
+  transition-delay: 300ms;
+}
+.d400 {
+  transition-delay: 400ms;
+}
+.d500 {
+  transition-delay: 500ms;
+}
+.d600 {
+  transition-delay: 600ms;
+}
+.d700 {
+  transition-delay: 700ms;
+}
