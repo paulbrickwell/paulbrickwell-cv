@@ -94,8 +94,26 @@ html::-webkit-scrollbar {
   padding-top: 30px;
 }
 
-.education-item:first-of-type {
+.education-item {
   padding-bottom: 10px;
+}
+
+.education-item:last-of-type {
+  padding-bottom: 0px;
+}
+
+.education-item a {
+  color: #eaeaea;
+  text-decoration: none;
+}
+
+.education-item a:hover {
+  text-decoration: underline;
+}
+
+.education-item img {
+  padding-left: 7px;
+  height: 12px;
 }
 
 .education-item p:first-child {
@@ -109,7 +127,6 @@ html::-webkit-scrollbar {
 .skills-list {
   list-style-type: none;
   padding-left: 0px;
-  max-width: 225px;
 }
 
 .skills-list:last-of-type {
@@ -118,7 +135,6 @@ html::-webkit-scrollbar {
 
 .skills-list li {
   display: flex;
-  justify-content: space-between;
 }
 
 .rating {
@@ -126,6 +142,7 @@ html::-webkit-scrollbar {
   align-self: center;
   justify-content: space-between;
   width: 75px;
+  padding-right: 20px;
 }
 
 .rating .filled {
