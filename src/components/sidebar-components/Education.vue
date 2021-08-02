@@ -6,16 +6,19 @@
         <a
           href="https://scrimba.com/certificate/uaVWv2sK/gjavascript"
           target="_blank"
-          >JavaScript Bootcamp</a
-        ><img src="../../assets/icons/link.svg" />
+          >JavaScript Bootcamp
+          <img src="../../assets/icons/link.svg" />
+        </a>
       </p>
       <p>Scrimba</p>
       <p>2021</p>
     </div>
     <div class="education-item">
       <p>
-        <a href="https://scrimba.com/certificate/uaVWv2sK/gvue">Vue Bootcamp</a
-        ><img src="../../assets/icons/link.svg" />
+        <a href="https://scrimba.com/certificate/uaVWv2sK/gvue"
+          >Vue Bootcamp
+          <img src="../../assets/icons/link.svg" />
+        </a>
       </p>
       <p>Scrimba</p>
       <p>2021</p>
