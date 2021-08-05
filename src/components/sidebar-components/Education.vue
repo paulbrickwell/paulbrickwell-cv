@@ -15,7 +15,7 @@
     </div>
     <div class="education-item">
       <p>
-        <a href="https://scrimba.com/certificate/uaVWv2sK/gvue"
+        <a href="https://scrimba.com/certificate/uaVWv2sK/gvue" target="_blank"
           >Vue Bootcamp
           <img src="../../assets/icons/link.svg" />
         </a>
