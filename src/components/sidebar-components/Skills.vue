@@ -1,17 +1,17 @@
 <template>
   <div class="skills">
     <h3 class="title">Skills</h3>
-    <ul class="skills-list">
-      <li>IT Infrastructure Management</li>
-      <li>IT Operations</li>
-      <li>IT Strategy</li>
-      <li>Network Design</li>
-    </ul>
     <ul class="skills-list with-rating">
       <li><Rating5 /> HTML / CSS</li>
       <li><Rating4 /> JavaScript</li>
       <li><Rating4 /> Vue.js</li>
       <li><Rating1 /> React</li>
+    </ul>
+    <ul class="skills-list">
+      <li>IT Infrastructure Management</li>
+      <li>IT Operations</li>
+      <li>IT Strategy</li>
+      <li>Network Design</li>
     </ul>
   </div>
 </template>

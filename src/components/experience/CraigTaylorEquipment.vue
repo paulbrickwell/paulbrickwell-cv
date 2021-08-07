@@ -4,6 +4,26 @@
       Craig Taylor Equipment<span class="duration">2016 - Current</span>
     </div>
     <div class="position">
+      Web Developer<span class="duration">2017 - Current</span>
+    </div>
+    <ul class="points">
+      <li>
+        Build various web projects, integrations, and applications such as
+        customer feedback capture portals and post-sale NPS surveys with
+        <strong>Zapier</strong> and <strong>Twilio</strong>.
+      </li>
+      <li>
+        Developed and maintain company website built on
+        <strong>Gridsome</strong>, a Jamstack framework for
+        <strong>Vue.js</strong> with <strong>GraphQL</strong> integrations into
+        <strong>Shopify</strong> and our Dealer Management System (DMS).
+      </li>
+      <li>
+        Built, designed, and maintain internal employee portal based on
+        <strong>WordPress</strong>.
+      </li>
+    </ul>
+    <div class="position">
       Director of IT<span class="duration">2021 - Current</span>
     </div>
     <ul class="points">
@@ -25,26 +45,6 @@
         integrations into <strong>Trello</strong>.
       </li>
       <li>Strategize deployment of IT infrastructure and policies.</li>
-    </ul>
-    <div class="position">
-      Web Developer<span class="duration">2017 - Current</span>
-    </div>
-    <ul class="points">
-      <li>
-        Build various web projects, integrations, and applications such as
-        customer feedback capture portals and post-sale NPS surveys with
-        <strong>Zapier</strong> and <strong>Twilio</strong>.
-      </li>
-      <li>
-        Developed and maintain company website built on
-        <strong>Gridsome</strong>, a Jamstack framework for
-        <strong>Vue.js</strong> with <strong>GraphQL</strong> integrations into
-        <strong>Shopify</strong> and our Dealer Management System (DMS).
-      </li>
-      <li>
-        Built, designed, and maintain internal employee portal based on
-        <strong>WordPress</strong>.
-      </li>
     </ul>
     <div class="position">
       System Administrator<span class="duration">2016 - 2021</span>
