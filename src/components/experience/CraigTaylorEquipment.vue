@@ -4,23 +4,22 @@
       Craig Taylor Equipment<span class="duration">2016 - Current</span>
     </div>
     <div class="position">
-      Web Developer<span class="duration">2017 - Current</span>
+      Front-End Web Developer<span class="duration">2017 - Current</span>
     </div>
     <ul class="points">
+      <li>
+        Developed and maintain company website built with
+        <strong>NuxtJS</strong> using <strong>GraphQL</strong> and
+        <strong>Vuex</strong> to load data from <strong>Contentful</strong>.
+      </li>
       <li>
         Build various web projects, integrations, and applications such as
         customer feedback capture portals and post-sale NPS surveys with
         <strong>Zapier</strong> and <strong>Twilio</strong>.
       </li>
       <li>
-        Developed and maintain company website built on
-        <strong>Gridsome</strong>, a Jamstack framework for
-        <strong>Vue.js</strong> with <strong>GraphQL</strong> integrations into
-        <strong>Shopify</strong> and our Dealer Management System (DMS).
-      </li>
-      <li>
         Built, designed, and maintain internal employee portal based on
-        <strong>WordPress</strong>.
+        <strong>WordPress</strong> with custom plugins.
       </li>
     </ul>
     <div class="position">
@@ -28,7 +27,7 @@
     </div>
     <ul class="points">
       <li>
-        Manage IT systems for roughly
+        Manage IT systems for more than
         <strong>100 employees at 6 locations</strong> and provide solutions for
         fully remote employees.
       </li>
